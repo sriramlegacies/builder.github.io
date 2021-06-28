@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://builder.github.io/"
 languageCode = "en-us"
 title = "My  blog"
 # Define how many pages appear per site
@@ -21,7 +21,7 @@ theme = "hugo-minimalist-theme"
     # Link custom assets relative to /static
     avatar = "img/profile-image.png"
     header_background = "images/desk.jpg"
-    header_title = "Customizable New header title 124565656"
+    header_title = "Customizable New header title"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
     custom_js  = []
